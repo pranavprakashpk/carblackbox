@@ -1,10 +1,3 @@
-/* 
- * File:   external_eeprom.h
- * Author: Abhishek
- *
- * Created on 23 May, 2023, 10:56 AM
- */
-
 #ifndef EXTERNAL_EEPROM_H
 #define	EXTERNAL_EEPROM_H
 #define S_READ		0xA1
