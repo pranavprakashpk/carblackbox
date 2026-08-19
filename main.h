@@ -1,10 +1,3 @@
-/* 
- * File:   main.h
- * Author: Abhishek
- *
- * Created on 22 May, 2023, 10:20 AM
- */
-
 #ifndef MAIN_H
 #define	MAIN_H
 
