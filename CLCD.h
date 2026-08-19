@@ -1,10 +1,3 @@
-/* 
- * File:   CLCD.h
- * Author: Abhishek
- *
- * Created on 21 May, 2023, 2:24 PM
- */
-
 #ifndef CLCD_H
 #define	CLCD_H
 
