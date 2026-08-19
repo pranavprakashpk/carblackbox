@@ -1,10 +1,3 @@
-/* 
- * File:   Matrix_KEYPAD.h
- * Author: Abhishek
- *
- * Created on 21 May, 2023, 2:25 PM
- */
-
 #ifndef MATRIX_KEYPAD_H
 #define	MATRIX_KEYPAD_H
 
