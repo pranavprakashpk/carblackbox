@@ -1,9 +1,3 @@
-/*
- * File:   UART.c
- * Author: Abhishek Pradeep
- *
- * Created on 21 May, 2023, 2:25 PM
- */
 #include <xc.h>
 #include "UART.h"
 void init_uart(void)
