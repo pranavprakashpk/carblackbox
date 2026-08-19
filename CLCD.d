@@ -1,0 +1,1 @@
+ CLCD.d  CLCD.p1:  CLCD.c Matrix_KEYPAD.h UART.h POT.h main.h RTC.h external_eeprom.h CLCD.h
