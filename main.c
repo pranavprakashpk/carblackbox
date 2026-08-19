@@ -1,12 +1,3 @@
-/*
- * File:   main.c
- * Author: Abhishek pradeep
- * Black Box implementation in an Automotive System to log critical events. 
- * This will help in pro-active vehicle monitoring and maintenance.
- * Created on 21 May, 2023, 2:25 PM
- */
-
-
 #include <xc.h>
 #include "main.h"
 
