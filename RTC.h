@@ -1,10 +1,3 @@
-/* 
- * File:   RTC.h
- * Author: Abhishek
- *
- * Created on 22 May, 2023, 10:46 AM
- */
-
 #ifndef RTC_H
 #define	RTC_H
 
